@@ -51,7 +51,7 @@ streamlit run agent.py
 - **Exa AI** - To find similar competitor websites  
 - **Firecrawl** - To extract competitor data  
 - **Agno AI Agents** - For analysis and comparison  
-- **OpenAI GPT-4o** - To generate insights  
+- **OpenAI GPT-4o-mini** - To generate insights  
 
 ## 📬 Contact  
  
